@@ -1,0 +1,5 @@
+#Ignoring .env
+.env
+.env2
+
+__pycache__
